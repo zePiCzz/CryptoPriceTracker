@@ -53,9 +53,4 @@ The following dependencies are required for the project:
 
 ## API Configuration
 
-This application uses the [CoinGecko API](https://www.coingecko.com/en/api) for fetching cryptocurrency data. No API key is required, but please review their usage guidelines and rate limits.
-
-## Acknowledgments
-
-- [CoinGecko API](https://www.coingecko.com/en/api) for real-time cryptocurrency data
-- [React Google Charts](https://react-google-charts.com/) for data visualization
+This application uses the [CoinGecko API](https://www.coingecko.com/en/api) for fetching cryptocurrency data.
